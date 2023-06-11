@@ -1,7 +1,6 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg3YTcyMjMzNzk3ZGViZjNmZDg3N2ZlZjk3ZWQ2MzJjNWM0MjYwMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/10zxDv7Hv5RF9C/giphy.gif" width="200"/>
   <h2 align="center">Hi 👋, I'm Axel</h2>
   <h4 align="center">Software Developer specialized in Java, with experience in the development of web and mobile applications. I am passionate about building innovative and efficient solutions using cutting-edge technologies.</h4>
   <div id="badges" align="center">

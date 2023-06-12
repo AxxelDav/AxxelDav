@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <h2 align="center">Hi 👋, I'm Axel</h2>
-  <h4 align="center">Software Developer specialized in Java, with experience in the development of web and mobile applications. I am passionate about building innovative and efficient solutions using cutting-edge technologies.</h4>
+  <h4 align="center">Software Developer specialized in Java, with experience in the development of web. I am passionate about building innovative and efficient solutions using cutting-edge technologies.</h4>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/axel-cespedes-53ab081b5/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge"/>

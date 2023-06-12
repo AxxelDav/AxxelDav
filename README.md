@@ -20,7 +20,6 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="70" height="70"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="70"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="IONIC" alt="IONIC" width="70" height="70"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="70" height="70"/>&nbsp;
      </div>
      <br>
      <h3>:hammer: DataBases:</h3>
